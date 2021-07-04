@@ -1,0 +1,5 @@
+name: FateUHC-Placeholders
+version: ${project.version}
+main: me.ryanmood.fateuhc.placeholders.fateuhcplaceholders.FateUHCPlaceholders
+depend: [ FateUHC, PlaceholderAPI ]
+authors: [ RyanMoodGAMING ]
