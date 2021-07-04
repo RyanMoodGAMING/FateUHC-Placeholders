@@ -1,6 +1,21 @@
 # FateUHC-Placeholders
 This plugin adds extra FateUHC Placeholders that aren't in FateUHC.
 
+### Placeholders:
+```
+%FateUHC-Placeholders_leaderboard_wins%
+%FateUHC-Placeholders_leaderboard_kills%
+%FateUHC-Placeholders_leaderboard_killstreak%
+%FateUHC-Placeholders_leaderboard_diamonds_mined%
+%FateUHC-Placeholders_leaderboard_games_played%
+%FateUHC-Placeholders_leaderboard_golden_apples_eaten%
+```
+
+### Config:
+```
+leaderboardFormat: '&9<pos>. &e<name>&7: &f<amount>'
+```
+
 ##  Normal Download
 You can download this plugin from the [GitHub Releases](https://github.com/RyanMoodGAMING/FateUHC-Placeholders/releases).
 
