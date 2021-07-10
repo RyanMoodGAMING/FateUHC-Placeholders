@@ -16,6 +16,9 @@ This plugin adds extra FateUHC Placeholders that aren't in FateUHC.
 leaderboardFormat: '&9<pos>. &e<name>&7: &f<amount>'
 ```
 
+## Dependancies
+[PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
+
 ##  Normal Download
 You can download this plugin from the [GitHub Releases](https://github.com/RyanMoodGAMING/FateUHC-Placeholders/releases).
 
