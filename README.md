@@ -18,6 +18,7 @@ leaderboardFormat: '&9<pos>. &e<name>&7: &f<amount>'
 
 ## Dependancies
 [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
+[FateUHC](https://https://www.mc-market.org/resources/9081/)
 
 ##  Normal Download
 You can download this plugin from the [GitHub Releases](https://github.com/RyanMoodGAMING/FateUHC-Placeholders/releases).
